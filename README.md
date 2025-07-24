@@ -25,7 +25,7 @@ Article link: Check back Friday 7/25!
 - **`data/`** — Contains raw and processed CSV datasets used in analysis.  
 - **`notebooks/`** — Jupyter notebooks with data cleaning, transformation, and analysis code.  
 - **`tableau/`** — Tableau workbook files and dashboard exports supporting the visualization parts.  
-- **`assets/`** — Images, charts, and other media assets used in blog posts or dashboards.  
+- **`figures/`** — Charts used in blog posts.  
 - **`.gitignore`** — Specifies files and folders ignored by Git.  
 - **`requirements.txt`** — Lists Python package dependencies for reproducing the analysis environment.
 
