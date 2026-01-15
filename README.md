@@ -1,4 +1,4 @@
-# Well Played, Mauer: The Triple Threat
+# Well Played, Mauer
 
 Welcome to the companion repo for my blog series on Joe Mauer’s 2009 MVP season, hosted on [Substack](https://reachedonerror.substack.com/). 
 This project includes data analysis, visualizations, and code supporting the articles.
