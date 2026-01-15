@@ -9,7 +9,7 @@ This project includes data analysis, visualizations, and code supporting the art
 
 The purpose of my blog is education. I use it to teach my subscribers about baseball history and sabermetric analysis, blending historical context with advanced statistics to make the content accessible yet thorough.
 
-This repository will evolve as I publish new parts of the series. Each part explores different aspects of Joe Mauer's offensive performance using advanced baseball metrics. The goal is to teach those who are less familiar with these sabermetric concepts in a way that's approachable but still in-depth.
+This repository will evolve as I publish new parts of the series. Each part explores different aspects of Joe Mauer's offensive performance using advanced baseball metrics. 
 
 
 ### Part 1: The Triple Threat  
