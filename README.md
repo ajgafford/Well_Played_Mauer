@@ -11,12 +11,19 @@ The purpose of my blog is education. I use it to teach my subscribers about base
 
 This repository will evolve as I publish new parts of the series. Each part explores different aspects of Joe Mauer's offensive performance using advanced baseball metrics. 
 
+---
 
 ### Part 1: The Triple Threat  
 
 An in-depth look at Joe Mauer’s **Triple Slash Line** (**AVG**, **OBP**, **SLG**) compared to league averages, including batted ball tendencies and peripheral stats visualized in an interactive Tableau dashboard, and what it informs us about a player's production. The article explores the idea of **run values** using the **Run Expectancy Matrix**, revealing how much each offensive outcome is worth in terms of runs, on average. Along the way, I delve into whether a player should prioritize chasing a high **AVG** over **OBP** or **SLG**, unpacking the implications for offensive value.
 
 Article link: [Well Played, Mauer: The Triple Threat](https://reachedonerror.substack.com/p/well-played-mauer-the-triple-threat)
+
+### Part 2: The Run Producer
+
+An exploration into run production beyond **Runs Batted In** and **OPS**. The article explores the contextual nature of the **RBI**, and how it's highly tied to lineup positioning and the talent of the teammates ahead of the batter in the order. I use **run values** and **linear weights** to show readers the _hows_ and _whys_ behind **weighted On Base Average (wOBA)**, **weighted Runs Above Average (wRAA)**, and **weighted Runs Created Plus (wRC+)**, and their equivalents on Baseball Reference.
+
+Article link: Check back on Friday 1/16!
 
 ---
 
