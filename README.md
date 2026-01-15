@@ -16,7 +16,7 @@ This repository will evolve as I publish new parts of the series. Each part expl
 
 An in-depth look at Joe Mauer’s **Triple Slash Line** (**AVG**, **OBP**, **SLG**) compared to league averages, including batted ball tendencies and peripheral stats visualized in an interactive Tableau dashboard, and what it informs us about a player's production. The article explores the idea of **run values** using the **Run Expectancy Matrix**, revealing how much each offensive outcome is worth in terms of runs, on average. Along the way, I delve into whether a player should prioritize chasing a high **AVG** over **OBP** or **SLG**, unpacking the implications for offensive value.
 
-Article link: Check back Friday 7/25!
+Article link: [Well Played, Mauer: The Triple Threat](https://reachedonerror.substack.com/p/well-played-mauer-the-triple-threat)
 
 ---
 
