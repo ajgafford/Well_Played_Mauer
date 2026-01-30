@@ -23,7 +23,7 @@ Article link: [Well Played, Mauer: The Triple Threat](https://reachedonerror.sub
 
 An exploration into run production beyond **Runs Batted In** and **OPS**. The article explores the contextual nature of the **RBI**, and how it's highly tied to lineup positioning and the talent of the teammates ahead of the batter in the order. I use **run values** and **linear weights** to show readers the _hows_ and _whys_ behind **weighted On Base Average (wOBA)**, **weighted Runs Above Average (wRAA)**, and **weighted Runs Created Plus (wRC+)**, and their equivalents on Baseball Reference.
 
-Article link: Check back on Friday 1/16!
+Article link: [Well Played, Mauer: The Run Producer](https://reachedonerror.substack.com/p/well-played-mauer-the-run-producer)
 
 ---
 
